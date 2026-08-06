@@ -23,9 +23,9 @@ repository               : "angelavarghese/angelavarghese.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Who Am I?"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "An attempt at convincing the reader to learn a little about me."
   location         : "Bengaluru, India"
   employer         : "RVCE"
